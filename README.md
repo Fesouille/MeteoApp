@@ -19,7 +19,7 @@ Group project of [Mennito Caterina](https://github.com/caterinamennito) and [Ism
 	* [Weather API](https://openweathermap.org/api): to retrieve weather forecasts.
 	* Mockup with [Figma](https://www.figma.com/file/BbhLVl89FcFxnEIHAw5wmN/Meteo?node-id=0%3A1).
 	* Bonus: 
-		* based on the temperature and the sky state (Clear, Rain or Clouds), the app gives some tips of things to do with an appropriate icon. In addition, the background of the app displays an image corresping to the current weather.
+		* based on the temperature and the sky state (Clear, Rain or Clouds), the app gives some tips of things to do with an appropriate icon. In addition, the background of the app displays an image corresponding to the current weather.
 		* button to select the temperature type (you can choose between C° and F°).
 
 * Try it out! :
