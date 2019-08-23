@@ -5,7 +5,7 @@ Our first Meteo App
 Group project of [Mennito Caterina](https://github.com/caterinamennito) and [Ismail Joseph](https://github.com/Fesouille).
 ----------------------------------
 
-*Exercice realized from the 02 april 2019 to 05 april 2019, as a group project for the formation [BeCode](https://www.becode.org/) to be a Web Developper (Brussels, Belgium)*
+*Exercice realized as a group project for the formation [BeCode](https://www.becode.org/) to be a Web Developper (Brussels, Belgium)*
 
 
 * Project:
@@ -33,7 +33,3 @@ Group project of [Mennito Caterina](https://github.com/caterinamennito) and [Ism
 ![Screenshot Meteo app](img/meteoapp_3.png)
 ![Screenshot Meteo app](img/meteoapp_4.png)
 
-
-* Progress: 
-	* 02 april 2019: project beginning.
-	* 05 april 2019: project end.
